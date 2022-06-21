@@ -42,7 +42,7 @@ header {
 .articles{
     background-color: thistle;
     width: 1125px;
-    height: 1470px;
+    height: 1510px;
     display: flex;
     flex-wrap: wrap;
     justify-items: center;
@@ -124,4 +124,15 @@ li{
     left: 800px;
     font-size: 1.2rem;
     font-weight: 500;
+}
+.remove{
+    color: white;
+    background-color: rgb(219, 14, 14);
+    border:none;
+    border-radius: 3px;
+    width: 120px;
+    height: 35px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 0px 0px 0px 80px;
 }
